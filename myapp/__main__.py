@@ -1,0 +1,2 @@
+import myapp
+myapp.main()
